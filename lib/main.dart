@@ -11,10 +11,12 @@ class MyId extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.grey[900],
     appBar: AppBar(
     title: Text("Kaleab's Id card"),
     centerTitle: true,
-      backgroundColor: Colors.amber[900],
+      backgroundColor: Colors.grey[850],
+      elevation: 0.0,
     ),
     );
   }
