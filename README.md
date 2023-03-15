@@ -1,6 +1,7 @@
 # my_id_app
 
 A new Flutter project.
+This project is a simple flutter app project that simply showcases my profile to a user in a simpler way.
 
 ## Getting Started
 
